@@ -1,0 +1,13 @@
+.custom-switches .switch {
+    color: white;
+    font-weight: bolder;
+    background: #a10a28;
+}
+
+.custom-switches .switch small {
+    background: #fff;
+}
+
+.custom-switches .switch.checked {
+    background: #008000;
+}
